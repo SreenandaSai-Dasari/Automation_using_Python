@@ -9,7 +9,7 @@ I've just completed a Python script designed to streamline and automate the repo
 ⚙️ Run Queries: Execute complex queries across these platforms, making data retrieval more efficient.
 
 
-📊 Excel Automation: Automatically write the results to Excel, with custom functionality to format sheets, create pivot tables, and generate insightful charts.
+📊 Excel Automation: Automatically write the results to Excel, with custom functions to format sheets, create pivot tables, and generate insightful charts.
 
 
 💻 Complete Automation: This script serves as a third-party source-to-Excel report automation tool, ensuring that all reporting needs are met with precision and detail.
