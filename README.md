@@ -17,7 +17,7 @@ I've just completed a Python script designed to streamline and automate the repo
 
 This is just a small sample of what the script can do! It’s designed with scalability in mind, meaning it can be extended to run queries on a larger scale. Plus, it has the potential to parallelize workloads, significantly increasing efficiency and reducing the time required for data processing.
 
-If you're interested in learning more or would like to see it in action, feel free to reach out! 🚀
+If you're interested in learning more or would like to see it in action, feel free to reach out!🚀
 
 #Python #Automation #DataScience #SQL #PowerBI #Tableau #Excel #DataAnalysis #Productivity
 
